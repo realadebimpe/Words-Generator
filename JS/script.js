@@ -15,7 +15,6 @@ function buttonHandler(event) {
     
 
     const word = words[index];
-  
 
     displayWord.innerText = word;
 }
